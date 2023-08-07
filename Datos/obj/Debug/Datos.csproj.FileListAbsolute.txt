@@ -1,0 +1,7 @@
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\Datos\bin\Debug\Datos.dll.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\Datos\bin\Debug\Datos.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\Datos\bin\Debug\Datos.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\Datos\obj\Debug\Datos.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\Datos\obj\Debug\Datos.pdb

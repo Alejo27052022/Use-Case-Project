@@ -1,0 +1,12 @@
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\LogicaNegocio\bin\Debug\Datos.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\LogicaNegocio\bin\Debug\Entidades.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\LogicaNegocio\bin\Debug\Datos.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\LogicaNegocio\bin\Debug\Datos.dll.config
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\LogicaNegocio\bin\Debug\Entidades.pdb
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\maite\ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\STALIN\Deber_Visual\DeberClase\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
